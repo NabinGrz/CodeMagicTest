@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588771316457",
+    "project_id": "codemagictest-ee320",
+    "storage_bucket": "codemagictest-ee320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588771316457:android:051158e7b64d0722991678",
+        "android_client_info": {
+          "package_name": "com.example.codemagictest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588771316457-ukpfu2cfk8ioebda0oqshgl46m6ej8vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtOb6Q7VGRAjDfhXnkUKDvrhhefPpdK-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588771316457-ukpfu2cfk8ioebda0oqshgl46m6ej8vq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
